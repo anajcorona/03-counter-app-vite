@@ -1,0 +1,14 @@
+html, body {
+    background-color: black;
+    color: aquamarine;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1.3rem;
+    padding: 70px;
+}
+
+button {
+    background-color:bisque;
+    padding: 1rem;
+    margin: 0.5rem;
+    border: 2px solid palevioletred;
+}
